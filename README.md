@@ -10,3 +10,6 @@ The portfolio or project items are all currently placeholder images linking off 
 
 https://pasgen-manley.github.io/pasgen-manley-portfolio/
 
+#### How it Looks
+![My Portfolio](./assets/images/homepage.png).
+
